@@ -9,5 +9,5 @@ Each dataset consists of 10 columns, the first row describes the attributes of e
 
 
 <p align="center">
-  <img alt="Tailored software services including concept, design, development and testing" src="site/logo_android.png" />
+  <img alt="Tailored software services including concept, design, development and testing" src="site/floorplan.tif" />
 </p>

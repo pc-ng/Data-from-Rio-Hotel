@@ -8,4 +8,4 @@ Each folder consists of 7 files (in .csv format). Each filename is named accordi
 Each dataset consists of 10 columns, the first row describes the attributes of each column.
 
 
-![Alt text](https://github.com/pcngnotgood/Data-from-Rio-Hotel/blob/master/floorplan.tif?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/pcngnotgood/Data-from-Rio-Hotel/branch/path/to/floorplan.tif)
